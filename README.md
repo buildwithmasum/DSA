@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/buildwithmasum/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/buildwithmasum/DSA/tree/master/0035-search-insert-position) |
+| [0075-sort-colors](https://github.com/buildwithmasum/DSA/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/buildwithmasum/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/buildwithmasum/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/buildwithmasum/DSA/tree/master/0162-find-peak-element) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/buildwithmasum/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/buildwithmasum/DSA/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/buildwithmasum/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/buildwithmasum/DSA/tree/master/0283-move-zeroes) |
 ## Math
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/buildwithmasum/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/buildwithmasum/DSA/tree/master/0169-majority-element) |
 ## Counting
 |  |
